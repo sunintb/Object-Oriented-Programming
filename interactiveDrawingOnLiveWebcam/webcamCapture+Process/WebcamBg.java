@@ -10,9 +10,6 @@ import javax.swing.*;
  * Fun with the webcam, built on JavaCV
  * Replaces background (as denoted by mouse press) with scenery
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Winter 2014, rewritten for Webcam class
- * @author Tim Pierson, Spring 2019, added usage comments and small refactoring
  * 
  * Usage: after camera image appears, click mouse with only the background visible (e.g., you are not visible),
  * this will set the background to be removed, then move into the frame.  The background should be replaced with
