@@ -2,9 +2,6 @@
  * A singly-linked list implementation of the SimpleList interface
  * Now with tail pointer
  * SA4 Sunint Bindra
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012,
- * based on a more feature-ful version by Tom Cormen and Scot Drysdale
- * @author CBK, Spring 2016, cleaned up inner class, extended testing
  */
 public class SinglyLinkedHT<T> implements SimpleList<T> {
     private Element head;	// front of the linked list
