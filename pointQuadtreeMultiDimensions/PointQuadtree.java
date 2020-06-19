@@ -5,9 +5,6 @@ import java.util.List;
  * A point quadtree: stores an element at a 2D position, 
  * with children at the subdivided quadrants
  * Sunint Bindra, PointQuadtree PS2
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2015
- * @author CBK, Spring 2016, explicit rectangle
- * @author CBK, Fall 2016, generic with Point2D interface
  * 
  */
 public class PointQuadtree<E extends Point2D> {
