@@ -5,10 +5,6 @@ import java.awt.image.*;
 /**
  * A class demonstrating manipulation of image pixels.
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Winter 2014, rewritten for BufferedImage
- * @author CBK, Spring 2015, refactored to separate GUI from operations
- * @author CBK, Spring 2016, integrated mouse-based interaction
  */
 public class ImageProcessingGUI extends DrawingGUI {
 	private int radius = 5;				// how big the drawing effects are
