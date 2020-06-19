@@ -7,9 +7,6 @@ import javax.swing.SwingUtilities;
  * Fun with the webcam, built on JavaCV
  * Uses one of our de-novo rendering methods to display webcam image
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Winter 2014, rewritten for simplified Webcam class
- * @author CBK, Spring 2016, direct rendering, size control
  */
 public class WebcamRendering extends Webcam {
     private int pixelSize = 10;        // size of the objects representing the image
