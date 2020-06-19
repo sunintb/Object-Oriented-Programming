@@ -10,7 +10,6 @@ import java.util.ArrayList;
  * CS10
  * CamPaint color implements methods in RegionFinder into GUI and performs actions based on that such as recoloring,
  * creating a blank background, and painting tracks left by an assigned paintbrush
- * @author Chris Bailey-Kellogg, Spring 2015 (based on a different webcam app from previous terms)
  */
 public class CamPaint extends Webcam {
 	private char displayMode = 'w';			// what to display: 'w': live webcam, 'r': recolored image, 'p': painting
