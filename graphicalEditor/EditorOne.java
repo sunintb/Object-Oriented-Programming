@@ -7,10 +7,6 @@ import javax.swing.*;
  * Sunint Bindra, May 27, 2020, CS10 20S
  * Basic shape drawing GUI
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012; loosely based on CS 5 code by Tom Cormen
- * @author CBK, lightly revised Winter 2014
- * @author CBK, restructured Shape/Drawer and some of the GUI, Spring 2016
- * @author CBK, more restructuring and simplification, Fall 2016
  */
 
 public class EditorOne extends JFrame {	
