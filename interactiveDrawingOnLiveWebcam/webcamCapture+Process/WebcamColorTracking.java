@@ -7,8 +7,6 @@ import javax.swing.SwingUtilities;
  * Fun with the webcam, built on JavaCV
  * Tracks a color, as specified by mouse press
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @authore CBK, Winter 2014, rewritten for Webcam class
  */
 public class WebcamColorTracking extends Webcam {
 	private Color trackColor=null;		 	// point-tracking target color
