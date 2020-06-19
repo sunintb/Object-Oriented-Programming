@@ -3,7 +3,6 @@ import java.util.*;
 /**
  * Library for graph analysis
  * Sunint Bindra, CS10, May 7, 2020, S20, Professor Li, SA7
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2016
  * 
  */
 public class GraphLib {
