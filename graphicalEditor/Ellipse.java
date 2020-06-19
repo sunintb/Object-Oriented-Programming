@@ -7,8 +7,6 @@ import java.awt.Point;
  * Defined by an upper-left corner (x1,y1) and a lower-right corner (x2,y2)
  * with x1<=x2 and y1<=y2
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Fall 2016, constructors and corner setter
  */
 public class Ellipse implements Shape {
 	private int x1, y1, x2, y2;		// upper left and lower right
