@@ -11,9 +11,6 @@ import javax.swing.*;
  * Fun with the webcam, built on JavaCV
  * Records and plays back (in reverse) a loop of images
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Spring 2015, rewritten for Webcam class
- * @author CBK, Spring 2016, for Java CV 1.1
  */
 public class WebcamLoop extends Webcam {
 	private ArrayList<BufferedImage> frames;
