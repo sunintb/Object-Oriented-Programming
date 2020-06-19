@@ -4,9 +4,6 @@ import java.awt.image.BufferedImage;
 /**
  * A class demonstrating manipulation of image pixels.
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Winter 2014, rewritten for BufferedImage
- * @author CBK, Spring 2015, refactored to separate GUI from operations
  */
 public class ImageProcessor {
 	private BufferedImage image;		// the current image being processed
