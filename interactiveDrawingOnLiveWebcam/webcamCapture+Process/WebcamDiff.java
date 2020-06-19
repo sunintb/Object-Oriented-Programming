@@ -10,8 +10,6 @@ import javax.swing.*;
  * Fun with the webcam, built on JavaCV
  * Computes image difference
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Winter 2014, rewritten for Webcam class
  */
 public class WebcamDiff extends Webcam {
 	private BufferedImage prev;		// a copy of the image from the previous frame
