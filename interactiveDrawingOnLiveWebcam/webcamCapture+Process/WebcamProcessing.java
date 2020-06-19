@@ -4,9 +4,6 @@ import javax.swing.SwingUtilities;
  * Fun with the webcam, built on JavaCV
  * Just applies one of our image processing methods to the webcam image
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author CBK, Winter 2014, rewritten for simplified Webcam class
- * @author CBK, Spring 2015, refactored for ImageProcessor
  */
 public class WebcamProcessing extends Webcam {
 	private ImageProcessor proc;	// handles image processing
