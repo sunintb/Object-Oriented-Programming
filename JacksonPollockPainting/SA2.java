@@ -12,9 +12,7 @@ import javax.swing.*;
 
 /**
  * Painting random colors with wanderers
- * Template for SA-2, Dartmouth CS 10, Spring 2016
  *
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2016
  */
 public class SA2 extends DrawingGUI {
     private static final int width = 800, height = 600; // setup: window size
